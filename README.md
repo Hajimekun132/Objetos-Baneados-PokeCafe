@@ -25,5 +25,4 @@
         </ul>
     </main>
 </body>
-</html>
-Se irán agregando más
+Se irán agregando más.
