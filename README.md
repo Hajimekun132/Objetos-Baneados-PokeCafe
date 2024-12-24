@@ -23,5 +23,4 @@
             <li>Observadores</li>
             <li>Raíles de Redstone</li>
         </ul>
-    </main>
 Se irán agregando más.
