@@ -1,9 +1,6 @@
 # Objetos-Baneados-PokeCafe
-<!DOCTYPE html>
 <html lang="es">
-</head>
 <body>
-    </header>
     <main>
         <h2>Lista de objetos no permitidos:</h2>
         <ul>
