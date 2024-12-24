@@ -3,8 +3,6 @@
 <html lang="es">
 </head>
 <body>
-    <header>
-        <h1>Objetos Baneados</h1>
     </header>
     <main>
         <h2>Lista de objetos no permitidos:</h2>
