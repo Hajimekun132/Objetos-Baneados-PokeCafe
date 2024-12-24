@@ -24,5 +24,4 @@
             <li>Raíles de Redstone</li>
         </ul>
     </main>
-</body>
 Se irán agregando más.
